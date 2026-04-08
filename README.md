@@ -1,99 +1,85 @@
-<div align="center">
-  <h1>Luiz Alves Candido da Silva👨‍💻</h1>
-  <p><b>Quality Engineer (QA) | Test Automation | Fullstack Developer</b></p>
-  <p>Web • Mobile • APIs • CI/CD • Automação E2E</p>
+<h1 align="center">Luiz Alves — QA Engineer</h1>
 
+<p align="center">
+  Automação E2E · Testes de API · Mobile · Web
+</p>
+
+<p align="center">
   <a href="mailto:luizlvescansilva@outlook.com">
     <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/luiz-alves-candido-da-silva/" target="_blank">
+  <a href="https://linkedin.com/in/luiz-alves-candido-da-silva">
     <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</div>
+</p>
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
-Sou **Quality Engineer com mentalidade Fullstack**, atuando com **Testes Manuais e Automatizados (E2E)** para aplicações **Web, Mobile e APIs**.
+Trabalho com QA desde 2024, atuando em automação de testes para plataformas SaaS
+de RH e gestão condominial. Meu foco está em cobrir o que realmente importa: os
+fluxos que, quando quebram, causam problema de verdade para o usuário final.
 
-Tenho experiência com:
-- ✔ Testes Funcionais, Regressão, Smoke e Exploratório  
-- ✔ Automação com **Cypress, PyTest e JUnit**  
-- ✔ Testes de API com **Postman**  
-- ✔ Integração em pipelines **CI/CD (Jenkins / GitHub Actions)**  
-- ✔ Validação de dados com **SQL (MySQL)**  
+Tecnicamente, vivo no Cypress para E2E, no Postman para APIs, e no MySQL para
+confirmar que o dado que chegou na tela é o mesmo que saiu do banco. Tenho base em
+JavaScript suficiente para escrever automação com estrutura real — não só scripts lineares.
 
-Minha base em desenvolvimento com **JavaScript, TypeScript, Python, Java e Node.js** me permite atuar com visão técnica ampliada, colaborando na prevenção de falhas desde a análise de requisitos até a entrega contínua.
-
-🎯 Foco em: **QA Automation | SDET | Engenharia de Testes | Desenvolvimento Fullstack**
+Objetivo atual: consolidar a transição para SDET, escrevendo código de automação com
+a mesma disciplina que um dev escreve funcionalidade de produto.
 
 ---
 
-## 🧪 QA & Test Automation
+## Stack principal
 
-- Escrita de **Casos de Teste e BDD (Given/When/Then)**
-- Automação E2E com **Cypress**
-- Testes de API (status code, payload, contrato, fluxos)
-- Abertura de bugs com evidências técnicas
-- Integração de testes em **CI/CD**
-- Monitoramento e análise de métricas
-
----
-
-## 💻 Desenvolvimento Fullstack
-
-- Desenvolvimento de aplicações Web
-- Consumo e criação de APIs REST
-- Manipulação de banco de dados
-- Estruturação de projetos com boas práticas
-- Versionamento com Git
+![Cypress](https://img.shields.io/badge/Cypress-1B1E2E?style=flat-square&logo=cypress&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
+![Sauce Labs](https://img.shields.io/badge/Sauce_Labs-E2231A?style=flat-square&logo=sauce-labs&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## Projetos
 
-<div align="center">
+### 🧪 [cypress-automation-portfolio](https://github.com/Luizin16/cypress-automation-portfolio)
+Automação E2E de uma aplicação de e-commerce (Swag Labs). Cobre fluxos de login,
+carrinho, checkout e validação de estado. Estrutura com Page Object Model, fixtures,
+comandos customizados e report via Mochawesome.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
-
-</div>
+`Cypress` · `JavaScript` · `Page Object Model` · `GitHub Actions`
 
 ---
 
-## 📌 Projetos em Destaque
+### 🔌 [api-testing-postman](https://github.com/Luizin16/api-testing-postman)
+Collection Postman para a API pública do ServeRest. Cobre criação, atualização e
+deleção de usuários, autenticação e fluxo de produtos. Inclui testes de contrato,
+validação de schema e execução via Newman no terminal.
 
-🔹 **Automação E2E com Cypress**  
-Fluxos completos de autenticação, interceptações, fixtures, reports e validações de API.
-
-🔹 **API Testing - Postman Collection**  
-Validações automatizadas com ambientes, variáveis e scripts.
-
-🔹 **Projetos Web Fullstack**  
-Aplicações utilizando Node.js + JavaScript, com integração a banco de dados.
-
+`Postman` · `Newman` · `REST API` · `JavaScript`
 
 ---
 
-## 📚 Aprendizado Contínuo
+## Experiência
 
-- Test Automation avançado
-- Estruturação de testes em arquitetura escalável
-- CI/CD aplicado a QA
-- Evolução para **SDET / Quality Engineer**
+**QA Engineer — Nexti** *(ago/2025 – jan/2026)*
+Automação E2E com Cypress em plataforma SaaS de RH. Validação de APIs com
+Postman, testes mobile com Sauce Labs, dados com MySQL, documentação em BDD.
+
+**Analista de QA — Winker** *(out/2024 – mai/2025)*
+Testes funcionais e exploratórios em plataforma de gestão condominial (Web + Mobile).
+Criação de cenários BDD, gestão de defeitos no Jira, homologação pré-deploy.
 
 ---
 
-## 🤝 Vamos nos conectar?
+## Contato
 
-📩 Email: **luizlvescansilva@outlook.com**  
-💼 LinkedIn: **Luiz Alves Candido da Silva**
+Aberto a oportunidades em QA Automation, SDET e Quality Engineering.
+Remoto, híbrido ou presencial em São Paulo.
+
+📧 luizlvescansilva@outlook.com
+💼 [linkedin.com/in/luiz-alves-candido-da-silva](https://linkedin.com/in/luiz-alves-candido-da-silva)
